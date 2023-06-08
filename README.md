@@ -1,4 +1,4 @@
-### Hi, I’m arij
+### Hi, I’m Arij
 - 🌱 I’m currently learning Java
 
 <!---
