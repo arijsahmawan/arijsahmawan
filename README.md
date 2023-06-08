@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arij</h1>
 
-<p align="left">
+<p align="center">
 <a href="https://ibb.co/YBWjVzh"><img src="https://i.ibb.co/ZzJTbnx/Flandre-chan.png" alt="Flandre-chan" border="0" width="500" height="500"/></a></p>
 
 - 🌱 I’m currently learning *Java*
