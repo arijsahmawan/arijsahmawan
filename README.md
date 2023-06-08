@@ -1,4 +1,4 @@
-### Hi, I’m @arijsahmawan
+### Hi, I’m arij
 - 🌱 I’m currently learning Java
 
 <!---
