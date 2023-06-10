@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arij</h1>
 
 <p align="center">
-<a href="https://ibb.co/dbTW7nD"><img src="https://i.ibb.co/Jx1BCXH/pngegg-2.png" alt="Flandre" border="0" width="500"/></a></p>
+<img src="https://ibb.co/FK8Vngv" alt="Flandre" border="0" width="500"/></p>
 
 - 🌱 I’m currently learning *Java*
 
